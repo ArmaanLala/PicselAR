@@ -27,3 +27,16 @@ While it cannot be easily conveyed through a visual format, if the user's microp
 ## What We Learned
 
 ## What's Next For 【PicselAR】
+
+## Instructions
+We made sure that when we developed the filter, it would be very simple to use. Because Facebook and Instagram have different capabilities, the filters for each platform have different options. When the filter opens, the user has options to chose which method of pixelation they want to use. The instructions for each specific method are below:
+
+# Instagram
+Audio Analysis - This method analyzes the data from a spectrum equalizer and automatically pixelates the background if a certain average frequence threshold is exceeded.
+Slider - This method is also very intuitive. It just adds a slider on the right side of the screen that the user can modify to a wanted level.
+World AR Block - This is the most interesting method of pixelation. This method allows you to an embed an emblem of our logo anywhere in the world. Our filter will remember the location of this object no matter where you look, or if you switch between front and back camera. The only thing you need to keep in mind for this option is that the father away the object, the more pixelated your background will become. 
+
+# Facebook 
+Hand Control - This method is both intuitive and fun to allow for creativity! If you put your hand towards the camera, it will further pixelate the background. If you put your hand away from the camera, it will unpixelate the background. 
+World AR Block - This is the most interesting method of pixelation. This method allows you to an embed an emblem of our logo anywhere in the world. Our filter will remember the location of this object no matter where you look, or if you switch between front and back camera. The only thing you need to keep in mind for this option is that the father away the object, the more pixelated your background will become. 
+
