@@ -56,8 +56,10 @@ We realized that Spark AR has no way of saving values so we had to find a way to
 We are extremely proud of being able to produce two seperate build of our applications. We were able to provide exclusive features to both platforms but still made them similar and were able to incorperate World AR into both of them.
 
 ## What We Learned
-We learned all about how to use various aspects of Spark AR in order to isolate different objects and layers. 
+We learned all about how to use various aspects of Spark AR in order to isolate different objects and layers. Furthermore, making a filter required a lot of skills outside of actually programming, which is all we really expected to do be doing. For example, we had to use Blender and Asperite to make the assets for the project. We also learned how to work efficiently together with a project outside of our comfort level (which is all we could ask for)!
 
 ## What's Next For 【PicselAR】
+We wish to continue to build out this idea so it's perfect for our friends to use. Furthermore, we would love to show off our filters to our followers and see what they can think up with it, afterall, that's the most important part of making a project like this.
 
+Thank you for checking out our project!
 
